@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>UK Mini-App Consortium News</title>
+  <link>http://uk-mac.github.io/news.html</link>
+  <description>News and updates from UK-MAC</description>
+  <item>
+    <title>Mantevo 3.0 Release</title>
+    <link>http://uk-mac.github.io/news.html#mantevo3.0</link>
+    <description>Mantevo 3.0 released featuring four UK-MAC mini-apps.</description>
+  </item>
+</channel>
+
+</rss>
